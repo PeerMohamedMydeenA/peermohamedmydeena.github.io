@@ -12,7 +12,7 @@ He is well versed in Software Quality Assurance & DevOps processes.
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/danielfullerton](https://www.linkedin.com/in/peermohamedmydeen/)  
+- 💼 LinkedIn: [linkedin.com/in/peermohamedmydeen](https://www.linkedin.com/in/peermohamedmydeen/)  
 - 🐙 GitHub: [github.com/peermohamedmydeena](https://github.com/peermohamedmydeena)
 
 
