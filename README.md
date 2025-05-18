@@ -8,21 +8,40 @@ Expert in design and code reviews, product/project-based development environment
 
 He is well versed in Software Quality Assurance & DevOps processes.
 
-## Professional Experience 
- 
-• Software Engineering Lead, Microsoft Corporation, Redmond, USA, March 2015 – Present 
- 
-• Senior Software Engineer, Symantec Corporation, Chennai, India, October 2010 – February 2015 
- 
-• Software Engineer, Tickerplant Limited, Chennai, India, January 2009 – October 2010 
- 
-• Associate Engineer, D-SAT Limited, Chennai, India, June 2007 – December 2008 
+## Professional Experience
+
+| **Role**                   | **Company & Location**                           | **Duration**                      |
+|----------------------------|--------------------------------------------------|-----------------------------------|
+| **Software Engineering Lead** | Microsoft Corporation  <br> Redmond, USA          | March 2015 – Present              |
+| **Senior Software Engineer**  | Symantec Corporation  <br> Chennai, India         | October 2010 – February 2015     |
+| **Software Engineer**         | Tickerplant Limited  <br> Chennai, India         | January 2009 – October 2010      |
+| **Associate Engineer**        | D-SAT Limited  <br> Chennai, India               | June 2007 – December 2008        |
+
 
 ## Education 
 
 • Bachelor of Technology in Information Technology, Anna University, 2006 
 
 • Post Graduate Diploma in Machine Learning & AI, IIIT Bengaluru, 2021
+
+# Exposure to Technologies
+
+| Category        | Technologies/Tools |
+|----------------|---------------------|
+| **Frameworks / Languages** | .NET, C#, Python, Scala |
+| **Web** | ASP.NET MVC & Core, JavaScript, TypeScript |
+| **Data Fabrics** | SQL Server, PostgreSQL, Cosmos DB |
+| **SOA** | REST, OData, GraphQL |
+| **Cloud** | Azure, AWS, GCP, Cross-cloud Integrations, NCOE |
+| **Microservices** | Service Fabric, AKS, Container App, Azure Functions |
+| **Data Engineering** | Synapse, Databricks, ADF, Spark, Deequ |
+| **Methodologies** | Agile (Scrum) |
+| **DevOps** | Git, PowerShell, Bicep, Terraform, Azure DevOps |
+| **Reporting** | Grafana, Power BI, Microsoft Fabric |
+| **Data & AI Governance** | Purview, Talend, Azure AI, GDPR, EUDB |
+| **Leadership** | Architecture, Project Management, Consulting |
+| **Data Domains** | Governance, Privacy, Compliance, Quality, GDPR |
+| **ML & AI** | Regression, Classification, NLP, ML Dev-Sec-Ops |
 
 ## 📫 Contact
 
